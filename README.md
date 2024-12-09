@@ -61,7 +61,7 @@ Database for this Electricity Billing System contains 5 Tables
 
 ->Bill Table(MeterNo,Month,Unit,Total Bill,Status)
 
---------------------------------------------------------------------------------------------------------------------------------![WhatsApp Image 2024-12-09 at 11 26 20 PM](![WhatsApp Image 2024-12-09 at 11 26 20 PM](https://github.com/user-attachments/assets/fa34b41f-fc43-4a31-923d-760f3bfa9122)
+---------------------------------------------------------------------------------------------------------------------------------------(https://github.com/user-attachments/assets/fa34b41f-fc43-4a31-923d-760f3bfa9122)
 
 
 
