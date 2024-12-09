@@ -61,7 +61,46 @@ Database for this Electricity Billing System contains 5 Tables
 
 ->Bill Table(MeterNo,Month,Unit,Total Bill,Status)
 
----------------------------------------------------------------------------------------------------------------------------------------(https://github.com/user-attachments/assets/fa34b41f-fc43-4a31-923d-760f3bfa9122)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+SIGNUP PAGE
+![](https://github.com/user-attachments/assets/31218345-43cb-4553-8aeb-afbf24c98747)
+
+LOGIN PAGE
+![WhatsApp Image 2024-12-10 at 12 05 30 AM](https://github.com/user-attachments/assets/aa577783-567a-464b-9395-51ad3faab2d7)
+
+NEW CUSTOMER PAGE
+![WhatsApp Image 2024-12-10 at 12 05 30 AM (1)](https://github.com/user-attachments/assets/50f0d503-b630-4145-9b01-88fdef44f722)
+
+CUSTOMER DETAILS PAGE
+![WhatsApp Image 2024-12-10 at 12 05 30 AM (2)](https://github.com/user-attachments/assets/fa5e2321-5d60-488f-ac7d-c9e6e83d7d73)
+
+DEPOSIT DETAILS PAGE
+![WhatsApp Image 2024-12-10 at 12 05 31 AM](https://github.com/user-attachments/assets/2497868b-7e71-485b-8a2c-d69fe9ce8a7a)
+
+METER INFORMATION PAGE
+![WhatsApp Image 2024-12-10 at 12 05 31 AM (1)](https://github.com/user-attachments/assets/4ea0bf78-b32d-4f14-b125-9a2e21f175fc)
+
+CALCULATE ELECTRICITY BILL PAGE
+![WhatsApp Image 2024-12-10 at 12 05 31 AM (2)](https://github.com/user-attachments/assets/9ec2f770-bed9-4ef2-953c-6888b1cbe71c)
+
+GENERATE BILL PAGE
+![WhatsApp Image 2024-12-10 at 12 05 32 AM](https://github.com/user-attachments/assets/adaf6c38-a0aa-4b50-b31f-5532d6c435c7)
+
+PAY BILL PAGE
+![WhatsApp Image 2024-12-10 at 12 05 32 AM (1)](https://github.com/user-attachments/assets/140530d9-3f5f-42b6-a25f-3b414820daff)
+
+BILL DETAILS PAGE
+![WhatsApp Image 2024-12-10 at 12 05 32 AM (2)](https://github.com/user-attachments/assets/560d6924-52bb-438c-8ce6-c8746aa66ea7)
+
+UPDATE CUSTOMER INFORMATION PAGE
+![WhatsApp Image 2024-12-10 at 12 05 33 AM](https://github.com/user-attachments/assets/5e2a0e80-1d8d-4eb8-9de3-f909b0e34ff4)
+
+VIEW INFORMATION PAGE
+![WhatsApp Image 2024-12-10 at 12 05 33 AM (1)](https://github.com/user-attachments/assets/85af9e73-122f-4650-920e-d70bd236df22)
+
+
+
 
 
 
