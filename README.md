@@ -71,6 +71,9 @@ SIGNUP PAGE
 LOGIN PAGE
 ![WhatsApp Image 2024-12-10 at 12 05 30 AM](https://github.com/user-attachments/assets/aa577783-567a-464b-9395-51ad3faab2d7)
 
+MAIN PAGE
+![WhatsApp Image 2024-12-11 at 4 15 49 PM](https://github.com/user-attachments/assets/eb4d317d-2901-476e-b5d2-5ae40fe7d1fa)
+
 NEW CUSTOMER PAGE
 ![WhatsApp Image 2024-12-10 at 12 05 30 AM (1)](https://github.com/user-attachments/assets/50f0d503-b630-4145-9b01-88fdef44f722)
 
