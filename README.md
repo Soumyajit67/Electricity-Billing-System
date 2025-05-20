@@ -89,9 +89,6 @@ METER INFORMATION PAGE
 CALCULATE ELECTRICITY BILL PAGE
 ![WhatsApp Image 2024-12-10 at 12 05 31 AM (2)](https://github.com/user-attachments/assets/9ec2f770-bed9-4ef2-953c-6888b1cbe71c)
 
-GENERATE BILL PAGE
-![WhatsApp Image 2024-12-10 at 12 05 32 AM](https://github.com/user-attachments/assets/adaf6c38-a0aa-4b50-b31f-5532d6c435c7)
-
 PAY BILL PAGE
 ![WhatsApp Image 2024-12-10 at 12 05 32 AM (1)](https://github.com/user-attachments/assets/140530d9-3f5f-42b6-a25f-3b414820daff)
 
@@ -104,6 +101,8 @@ UPDATE CUSTOMER INFORMATION PAGE
 VIEW INFORMATION PAGE
 ![WhatsApp Image 2024-12-10 at 12 05 33 AM (1)](https://github.com/user-attachments/assets/85af9e73-122f-4650-920e-d70bd236df22)
 
+GENERATE BILL PAGE
+![WhatsApp Image 2025-05-20 at 4 26 54 PM](https://github.com/user-attachments/assets/c151483c-9ae6-47f2-95ae-556932800739)
 
 
 
